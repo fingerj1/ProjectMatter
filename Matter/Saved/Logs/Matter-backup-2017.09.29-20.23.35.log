@@ -1,0 +1,1184 @@
+﻿Log file open, 09/29/17 19:50:20
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Matter
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1473607462) SRandInit(-1473607461).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.112694
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.29-23.50.20:663][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.29-23.50.20:663][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.29-23.50.20:674][  0]LogInit: Computer: DESKTOP-6AKFKMT
+[2017.09.29-23.50.20:674][  0]LogInit: User: Alfred
+[2017.09.29-23.50.20:674][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.09.29-23.50.20:674][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2017.09.29-23.50.20:674][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.09.29-23.50.20:674][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.29-23.50.20:674][  0]LogMemory: Process Physical Memory: 276.06 MB used, 276.06 MB peak
+[2017.09.29-23.50.20:674][  0]LogMemory: Process Virtual Memory: 275.71 MB used, 275.71 MB peak
+[2017.09.29-23.50.20:674][  0]LogMemory: Physical Memory: 4918.98 MB used,  11318.77 MB free, 16237.76 MB total
+[2017.09.29-23.50.20:674][  0]LogMemory: Virtual Memory: 671.52 MB used,  11318.77 MB free, 134217728.00 MB total
+[2017.09.29-23.50.20:851][  0]LogInit: Using OS detected language (en-US).
+[2017.09.29-23.50.20:851][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.29-23.50.20:854][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.29-23.50.22:004][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.29-23.50.22:010][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.09.29-23.50.22:011][  0]LogD3D11RHI:       128/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.09.29-23.50.22:571][  0]LogD3D11RHI:    1. 'AMD Radeon (TM) R7 M460' (Feature Level 11_0)
+[2017.09.29-23.50.22:571][  0]LogD3D11RHI:       2039/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.09.29-23.50.22:572][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.29-23.50.22:573][  0]LogD3D11RHI:       0/0/8118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.29-23.50.22:573][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.09.29-23.50.22:584][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.29-23.50.22:584][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.29-23.50.22:584][  0]LogWindows: EnumDisplayDevices:
+[2017.09.29-23.50.22:584][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.09.29-23.50.22:584][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.09.29-23.50.22:585][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.09.29-23.50.22:585][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.09.29-23.50.22:585][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 M460
+[2017.09.29-23.50.22:585][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.09.29-23.50.22:585][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.09.29-23.50.22:585][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.29-23.50.22:605][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.29-23.50.22:618][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.09.29-23.50.22:619][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Intermediate/Shaders/WorkingDirectory/9228/).
+[2017.09.29-23.50.22:619][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alfred/AppData/Local/Temp/UnrealShaderWorkingDir/6805CF46469BDAAE1B03CBA75E88B093/'.
+[2017.09.29-23.50.22:619][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.29-23.50.23:791][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.29-23.50.23:852][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.29-23.50.23:909][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.29-23.50.23:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.29-23.50.24:029][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.29-23.50.24:096][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.29-23.50.24:160][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.29-23.50.24:222][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.29-23.50.24:280][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.29-23.50.24:338][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.29-23.50.24:398][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.29-23.50.24:455][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.29-23.50.24:511][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.29-23.50.24:570][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.29-23.50.24:628][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.29-23.50.24:755][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.29-23.50.24:755][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.29-23.50.24:801][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.29-23.50.24:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.29-23.50.24:952][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.29-23.50.25:007][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.29-23.50.25:073][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.29-23.50.25:137][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.29-23.50.25:202][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.29-23.50.25:202][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.29-23.50.25:810][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Alfred/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alfred/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.29-23.50.25:937][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.29-23.50.25:968][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.29-23.50.25:980][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alfred/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.29-23.50.25:994][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.29-23.50.25:995][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.29-23.50.25:995][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.29-23.50.25:995][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.29-23.50.26:326][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.09.29-23.50.26:479][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.29-23.50.26:673][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.29-23.50.27:150][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.29-23.50.27:252][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.29-23.50.27:252][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.29-23.50.27:252][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.29-23.50.27:252][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.29-23.50.27:252][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.29-23.50.27:812][  0]LogNetVersion: Matter , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 980240421)
+[2017.09.29-23.50.28:097][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.052115 seconds
+[2017.09.29-23.50.28:103][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.29-23.50.28:103][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.29-23.50.28:103][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.29-23.50.28:175][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.29-23.50.31:884][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.29-23.50.31:930][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.29-23.50.32:756][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.29-23.50.33:263][  0]SourceControl: Source control is disabled
+[2017.09.29-23.50.33:264][  0]SourceControl: Source control is disabled
+[2017.09.29-23.50.33:324][  0]SourceControl: Source control is disabled
+[2017.09.29-23.50.33:382][  0]SourceControl: Source control is disabled
+[2017.09.29-23.50.34:111][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.29-23.50.34:405][  0]LogOcInput: OculusInput pre-init called
+[2017.09.29-23.50.34:733][  0]LogEngine: Initializing Engine...
+[2017.09.29-23.50.34:735][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.29-23.50.35:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.29-23.50.35:022][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.29-23.50.35:172][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.29-23.50.35:179][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.29-23.50.36:199][  0]LogInit: FAudioDevice initialized.
+[2017.09.29-23.50.36:318][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/Alfred/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.29-23.50.36:343][  0]LogInit: Texture streaming: Enabled
+[2017.09.29-23.50.36:523][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.29-23.50.36:824][  0]LogInit: Transaction tracking system initialized
+[2017.09.29-23.50.37:321][  0]BlueprintLog: New page: Editor Load
+[2017.09.29-23.50.38:595][  0]LocalizationService: Localization service is disabled
+[2017.09.29-23.50.39:473][  0]LogConsoleResponse: Display: 
+[2017.09.29-23.50.39:718][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.29-23.50.39:718][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.29-23.50.39:718][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.29-23.50.40:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/' took 0.02s
+[2017.09.29-23.50.41:056][  0]SourceControl: Source control is disabled
+[2017.09.29-23.50.41:056][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-23.50.41:056][  0]LightingResults: New page: Lighting Build
+[2017.09.29-23.50.41:107][  0]MapCheck: New page: Map Check
+[2017.09.29-23.50.41:107][  0]LightingResults: New page: Lighting Build
+[2017.09.29-23.50.41:696][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.29-23.50.41:712][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-23.50.41:746][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-23.50.41:812][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.421ms to complete.
+[2017.09.29-23.50.41:812][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.757
+[2017.09.29-23.50.41:972][  0]LogCollectionManager: Loaded 0 collections in 0.001890 seconds
+[2017.09.29-23.50.42:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Collections/' took 0.01s
+[2017.09.29-23.50.42:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/Developers/Alfred/Collections/' took 0.01s
+[2017.09.29-23.50.42:069][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/Collections/' took 0.01s
+[2017.09.29-23.50.42:069][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.29-23.50.42:082][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2386 classes and 500 folders.
+[2017.09.29-23.50.42:175][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.09.29-23.50.42:223][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.29-23.50.42:280][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.29-23.50.42:308][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.29-23.50.42:310][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.29-23.50.42:315][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.29-23.50.42:454][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2017.09.29-23.50.42:875][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.09.29-23.50.42:875][  0]LogLoad: (Engine Initialization) Total time: 24.01 seconds
+[2017.09.29-23.50.42:875][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.29-23.50.42:876][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.29-23.50.43:233][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.29-23.50.43:560][  1]LogAssetRegistry: Asset discovery search completed in 17.2565 seconds
+[2017.09.29-23.50.43:563][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.29-23.50.43:563][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2017.09.29-23.51.31:841][627]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2017.09.29-23.51.32:452][649]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2017.09.29-23.51.36:864][832]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (TriggerBox)
+[2017.09.29-23.51.50:876][148]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.29-23.51.51:327][148]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2017.09.29-23.51.52:095][148]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.29-23.54.21:392][813]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2017.09.29-23.54.22:405][874]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2017.09.29-23.54.23:470][951]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2017.09.29-23.54.33:492][477]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.09.29-23.54.37:021][674]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.29-23.55.33:228][649]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.30-00.00.02:516][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.01.44:667][280]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2017.09.30-00.01.50:037][464]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.01.50:101][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.01.50:101][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.01.50:102][464]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:01:50 PM)
+[2017.09.30-00.01.50:102][464]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.01.50:132][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030142s)
+[2017.09.30-00.01.50:134][464]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.01.50:134][464]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2017.09.30-00.01.50:135][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032812s)
+[2017.09.30-00.01.50:168][464]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.01.51:190][464]LogInit: FAudioDevice initialized.
+[2017.09.30-00.01.51:272][464]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.01.51:287][464]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.01.51
+[2017.09.30-00.01.51:289][464]LogWorld: Bringing up level for play took: 0.014877
+[2017.09.30-00.01.51:413][464]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.09.30-00.01.51:414][464]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.318
+[2017.09.30-00.01.51:414][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.01.53:180][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.01.53:265][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.01.55:293][595]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.01.55:315][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.01.55:315][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.01.55:315][595]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:01:55 PM)
+[2017.09.30-00.01.55:315][595]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.01.55:347][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032487s)
+[2017.09.30-00.01.55:349][595]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.01.55:349][595]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2017.09.30-00.01.55:350][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034892s)
+[2017.09.30-00.01.55:398][595]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.01.56:425][595]LogInit: FAudioDevice initialized.
+[2017.09.30-00.01.56:482][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.01.56:496][595]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.01.56
+[2017.09.30-00.01.56:497][595]LogWorld: Bringing up level for play took: 0.013768
+[2017.09.30-00.01.56:500][595]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.404
+[2017.09.30-00.01.56:501][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.02.00:363][749]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:385][750]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:410][751]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:432][752]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:456][753]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:478][754]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:499][755]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:519][756]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:541][757]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:561][758]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:582][759]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:603][760]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:624][761]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:644][762]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:664][763]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:685][764]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:706][765]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:730][766]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:751][767]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:772][768]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:793][769]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:817][770]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:842][771]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:862][772]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:883][773]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:903][774]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:924][775]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:945][776]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:967][777]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.00:988][778]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:010][779]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:033][780]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:058][781]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:083][782]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:108][783]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:134][784]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:158][785]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:186][786]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:213][787]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:238][788]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:265][789]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:289][790]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:317][791]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:342][792]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:365][793]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:392][794]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:414][795]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:438][796]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:460][797]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:484][798]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:510][799]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:537][800]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:559][801]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-561.90 Y=-210.41 Z=0.00 Location: X=904.01 Y=958.40 Z=228.46 Normal: X=0.99 Y=-0.11 Z=0.00 PenetrationDepth:10.701 Actor:Cube26_37 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.09.30-00.02.01:559][801]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:582][802]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:605][803]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:628][804]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:651][805]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:675][806]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:697][807]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:720][808]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:743][809]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:766][810]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:789][811]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:811][812]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:833][813]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:859][814]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:885][815]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:909][816]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:932][817]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:953][818]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.01:979][819]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:001][820]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:027][821]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:049][822]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:070][823]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:097][824]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:119][825]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:141][826]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:164][827]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:189][828]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:213][829]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:238][830]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:261][831]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:285][832]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:311][833]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:334][834]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:360][835]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:383][836]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:405][837]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:431][838]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:453][839]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:477][840]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:503][841]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:526][842]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:551][843]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:574][844]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:596][845]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:623][846]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:646][847]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:672][848]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:695][849]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:718][850]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:741][851]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:763][852]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:785][853]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:807][854]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:830][855]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:853][856]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:875][857]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:902][858]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:925][859]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:948][860]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:970][861]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.02:993][862]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:015][863]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:037][864]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:060][865]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:083][866]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:105][867]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:132][868]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:155][869]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:180][870]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:206][871]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:229][872]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:252][873]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:274][874]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:297][875]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:320][876]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:342][877]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:365][878]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:389][879]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:413][880]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:440][881]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:462][882]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:486][883]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:513][884]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:541][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:565][886]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:593][887]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:619][888]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:644][889]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:672][890]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:697][891]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:721][892]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:748][893]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:773][894]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:795][895]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:822][896]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:849][897]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:873][898]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:898][899]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:922][900]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:948][901]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:975][902]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.03:997][903]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:025][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:049][905]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:076][906]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:099][907]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:121][908]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:147][909]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:170][910]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:195][911]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:217][912]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:241][913]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:263][914]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:290][915]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:312][916]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:338][917]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:361][918]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:387][919]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:412][920]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:436][921]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:462][922]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:486][923]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:509][924]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:534][925]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:560][926]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:584][927]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:611][928]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:634][929]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:659][930]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:686][931]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:709][932]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:734][933]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:757][934]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:784][935]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:807][936]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:830][937]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:856][938]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:880][939]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:907][940]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:930][941]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:954][942]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.04:981][943]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:005][944]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:028][945]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:055][946]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:081][947]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:106][948]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:132][949]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:156][950]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:184][951]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:208][952]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:234][953]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:258][954]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:282][955]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:307][956]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:333][957]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.02.05:357][958]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.04.26:798][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.04.26:883][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.04.53:256][858]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2017.09.30-00.04.55:152][926]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.04.55:172][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.04.55:172][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.04.55:172][926]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:04:55 PM)
+[2017.09.30-00.04.55:172][926]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.04.55:211][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038649s)
+[2017.09.30-00.04.55:212][926]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.04.55:212][926]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2017.09.30-00.04.55:212][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040284s)
+[2017.09.30-00.04.55:242][926]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.04.56:265][926]LogInit: FAudioDevice initialized.
+[2017.09.30-00.04.56:309][926]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.04.56:324][926]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.04.56
+[2017.09.30-00.04.56:326][926]LogWorld: Bringing up level for play took: 0.014833
+[2017.09.30-00.04.56:329][926]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.233
+[2017.09.30-00.04.56:330][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.00:315][ 83]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] Hello
+[2017.09.30-00.05.01:365][130]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-522.52 Y=-294.92 Z=0.00 Location: X=903.68 Y=998.84 Z=228.46 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:4.583 Actor:Cube26_37 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2017.09.30-00.05.01:365][130]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] Hello
+[2017.09.30-00.05.04:577][259]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] Hello
+[2017.09.30-00.05.04:986][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.05:065][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.21:748][819]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2017.09.30-00.05.22:452][842]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.05.22:470][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.22:471][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.05.22:471][842]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:05:22 PM)
+[2017.09.30-00.05.22:471][842]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.05.22:504][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033020s)
+[2017.09.30-00.05.22:505][842]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.05.22:505][842]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2017.09.30-00.05.22:505][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034609s)
+[2017.09.30-00.05.22:530][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.05.23:548][842]LogInit: FAudioDevice initialized.
+[2017.09.30-00.05.23:603][842]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.05.23:616][842]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.05.23
+[2017.09.30-00.05.23:617][842]LogWorld: Bringing up level for play took: 0.011861
+[2017.09.30-00.05.23:618][842]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.522
+[2017.09.30-00.05.23:619][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.30:828][ 73]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] Hello
+[2017.09.30-00.05.31:495][103]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] leave
+[2017.09.30-00.05.47:655][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.47:735][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.05.54:570][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.06.40:318][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.06.40:337][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.06.40:337][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.06.40:337][601]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:06:40 PM)
+[2017.09.30-00.06.40:337][601]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.06.40:370][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032172s)
+[2017.09.30-00.06.40:371][601]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.06.40:372][601]LogPlayLevel: PIE: World Init took: (0.002281s)
+[2017.09.30-00.06.40:373][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035434s)
+[2017.09.30-00.06.40:402][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.06.41:418][601]LogInit: FAudioDevice initialized.
+[2017.09.30-00.06.41:457][601]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.06.41:467][601]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.06.41
+[2017.09.30-00.06.41:468][601]LogWorld: Bringing up level for play took: 0.009821
+[2017.09.30-00.06.41:470][601]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.374
+[2017.09.30-00.06.41:471][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.06.50:284][933]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] Hello
+[2017.09.30-00.06.50:574][945]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] leave
+[2017.09.30-00.06.51:873][  0]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] Hello
+[2017.09.30-00.06.54:698][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.06.54:773][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.20:680][858]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.07.20:699][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.20:699][858]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.30-00.07.20:704][858]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2017.09.30-00.07.20:742][858]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2017.09.30-00.07.20:742][858]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:07:20 PM)
+[2017.09.30-00.07.20:743][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.07.20:769][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026409s)
+[2017.09.30-00.07.20:770][858]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.07.20:770][858]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2017.09.30-00.07.20:770][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027963s)
+[2017.09.30-00.07.20:795][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.07.21:816][858]LogInit: FAudioDevice initialized.
+[2017.09.30-00.07.21:877][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.07.21:884][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.07.21
+[2017.09.30-00.07.21:885][858]LogWorld: Bringing up level for play took: 0.007282
+[2017.09.30-00.07.21:887][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.791
+[2017.09.30-00.07.21:887][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.27:216][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.27:306][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.29:457][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.30-00.07.29:477][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.29:477][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.07.29:477][ 94]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 29, 2017, 4:07:29 PM)
+[2017.09.30-00.07.29:477][ 94]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.30-00.07.29:507][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029634s)
+[2017.09.30-00.07.29:508][ 94]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.30-00.07.29:509][ 94]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2017.09.30-00.07.29:509][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032197s)
+[2017.09.30-00.07.29:570][ 94]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.30-00.07.30:593][ 94]LogInit: FAudioDevice initialized.
+[2017.09.30-00.07.30:649][ 94]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.30-00.07.30:665][ 94]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.09.29-20.07.30
+[2017.09.30-00.07.30:666][ 94]LogWorld: Bringing up level for play took: 0.015109
+[2017.09.30-00.07.30:668][ 94]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.572
+[2017.09.30-00.07.30:669][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.35:615][284]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:637][285]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:661][286]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:685][287]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:708][288]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:738][289]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:761][290]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:787][291]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:810][292]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:837][293]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:860][294]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:882][295]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:908][296]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:932][297]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:958][298]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.35:980][299]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:006][300]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:029][301]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:055][302]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:077][303]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:100][304]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:128][305]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:149][306]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:173][307]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:196][308]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:222][309]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:246][310]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:272][311]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:299][312]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:322][313]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:345][314]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:372][315]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:398][316]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:424][317]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:447][318]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:474][319]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:497][320]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:524][321]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:547][322]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:570][323]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:596][324]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:619][325]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:643][326]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:667][327]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:693][328]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:717][329]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:743][330]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:767][331]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:793][332]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:821][333]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:845][334]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:868][335]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:894][336]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:918][337]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:944][338]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:971][339]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.36:994][340]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:020][341]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:044][342]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:068][343]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:091][344]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:113][345]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:135][346]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:157][347]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:179][348]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:201][349]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:223][350]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:244][351]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:266][352]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:288][353]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:313][354]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:335][355]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:357][356]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:379][357]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:404][358]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:426][359]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:452][360]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:474][361]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:500][362]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:524][363]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:546][364]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:568][365]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:593][366]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:616][367]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:642][368]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:668][369]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:690][370]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:718][371]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:740][372]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:762][373]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:784][374]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:810][375]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:832][376]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:854][377]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:876][378]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:902][379]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:924][380]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:947][381]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:971][382]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.37:993][383]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:015][384]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:037][385]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:059][386]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:081][387]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:103][388]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:126][389]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:148][390]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:171][391]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:199][392]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:224][393]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:250][394]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:273][395]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:298][396]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:323][397]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:346][398]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:368][399]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:390][400]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:416][401]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:438][402]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:464][403]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:486][404]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:512][405]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:534][406]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:556][407]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:581][408]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:605][409]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:626][410]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:648][411]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:670][412]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:695][413]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:717][414]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:741][415]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:763][416]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:785][417]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:809][418]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:831][419]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:853][420]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:876][421]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:897][422]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:919][423]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:942][424]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:964][425]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.38:986][426]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:007][427]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:030][428]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:051][429]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:078][430]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:100][431]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:124][432]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:146][433]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:168][434]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:191][435]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:214][436]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:239][437]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:261][438]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:283][439]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:306][440]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:331][441]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:353][442]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:375][443]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:401][444]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:423][445]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:445][446]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:471][447]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:494][448]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:519][449]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:541][450]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:566][451]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:589][452]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:611][453]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:636][454]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:658][455]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:681][456]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:706][457]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:728][458]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:750][459]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:772][460]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:798][461]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:823][462]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:846][463]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:869][464]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:894][465]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] leave
+[2017.09.30-00.07.39:895][465]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:918][466]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:945][467]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:968][468]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.39:994][469]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:016][470]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:042][471]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:065][472]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:092][473]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:116][474]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:142][475]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:164][476]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:187][477]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:209][478]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:232][479]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:253][480]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:275][481]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:297][482]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:319][483]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:343][484]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:365][485]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:386][486]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:409][487]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:431][488]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:455][489]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:480][490]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:505][491]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:529][492]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:551][493]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:578][494]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:601][495]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:840][505]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.40:937][509]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] leave
+[2017.09.30-00.07.41:412][529]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.42:225][564]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] leave
+[2017.09.30-00.07.43:170][604]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.44:754][673]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] leave
+[2017.09.30-00.07.45:700][713]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_Door_34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.09.30-00.07.48:296][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.07.48:375][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.30-00.08.05:258][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.09.30-00.08.38:512][686]LogSavePackage: Save=232.37ms
+[2017.09.30-00.08.38:512][686]LogSavePackage: Moving '../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/ThirdPersonExampleMap_Auto16E1D9D974810734FFE4A52BB6CC7506A.tmp' to '../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.09.30-00.08.38:516][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.09.30-00.08.38:519][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.292
+[2017.09.30-00.08.38:519][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2017.09.30-00.11.26:154][313]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor5)
+[2017.09.30-00.11.28:634][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.12.33:471][767]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2017.09.30-00.12.41:864][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.30-00.12.42:722][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.13.04:417][945]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:18621).
+[2017.09.30-00.13.04:473][946]LogRenderer: Reallocating scene render targets to support 964x492 Format 10 NumSamples 1 (Frame:18623).
+[2017.09.30-00.13.04:558][947]LogRenderer: Reallocating scene render targets to support 964x528 Format 10 NumSamples 1 (Frame:18625).
+[2017.09.30-00.13.04:659][948]LogRenderer: Reallocating scene render targets to support 964x568 Format 10 NumSamples 1 (Frame:18627).
+[2017.09.30-00.13.04:870][949]LogRenderer: Reallocating scene render targets to support 964x576 Format 10 NumSamples 1 (Frame:18629).
+[2017.09.30-00.13.05:097][950]LogRenderer: Reallocating scene render targets to support 964x652 Format 10 NumSamples 1 (Frame:18631).
+[2017.09.30-00.13.16:629][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.13.45:573][275]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube18)
+[2017.09.30-00.13.48:196][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.14.02:524][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.14.21:920][779]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0009 seconds. Added 15 classes and 2 folders.
+[2017.09.30-00.14.21:934][779]LogInit: Transaction tracking system initialized
+[2017.09.30-00.14.21:935][779]EditorErrors: New page: Matinee Initialization
+[2017.09.30-00.16.18:530][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.17.37:819][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.17.43:277][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.17.49:191][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.18.30:332][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.18.57:768][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.19.36:257][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.19.58:484][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.20.07:028][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.20.10:629][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.20.40:391][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.20.43:102][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.09.30-00.21.01:214][487]LogInit: Transaction tracking system initialized
+[2017.09.30-00.21.01:214][487]EditorErrors: New page: Matinee Initialization
+[2017.09.30-00.21.24:026][893]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.30-00.21.28:786][894]LogExit: Transaction tracking system shut down
+[2017.09.30-00.21.28:786][894]LogExit: Transaction tracking system shut down
+[2017.09.30-00.21.28:972][894]LogSavePackage: Save=164.62ms
+[2017.09.30-00.21.28:972][894]LogSavePackage: Moving '../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/ThirdPersonExampleMap_Auto2303B5AB24ECC4938A623B1A76CD1902E.tmp' to '../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.09.30-00.21.28:975][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.09.30-00.21.28:978][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.218
+[2017.09.30-00.21.28:978][894]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.218
+[2017.09.30-00.21.44:975][224]Cmd: QUIT_EDITOR
+[2017.09.30-00.21.46:525][224]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.30-00.21.46:526][224]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.30-00.21.46:549][224]LogExit: Preparing to exit.
+[2017.09.30-00.21.46:857][224]LogDirectoryWatcher: A directory notification for 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/' was aborted.
+[2017.09.30-00.21.46:896][224]LogExit: Editor shut down
+[2017.09.30-00.21.46:901][224]LogExit: Transaction tracking system shut down
+[2017.09.30-00.21.47:046][224]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.30-00.21.47:046][224]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/' was aborted.
+[2017.09.30-00.21.47:046][224]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.30-00.21.47:046][224]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.30-00.21.47:046][224]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.30-00.21.47:132][224]LogExit: Object subsystem successfully closed.
+[2017.09.30-00.21.47:149][224]LogD3D11RHI: Shutdown
+[2017.09.30-00.21.47:149][224]LogD3D11RHI: CleanupD3DDevice
+[2017.09.30-00.21.47:358][224]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module DistCurveEditor (540)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module Matinee (538)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.30-00.21.47:376][224]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.30-00.21.47:376][224]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.30-00.21.47:377][224]LogDirectoryWatcher: A directory notification for 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/Collections/' was aborted.
+[2017.09.30-00.21.47:377][224]LogDirectoryWatcher: A directory notification for 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Content/Developers/Alfred/Collections/' was aborted.
+[2017.09.30-00.21.47:377][224]LogDirectoryWatcher: A directory notification for 'C:/Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Collections/' was aborted.
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.30-00.21.47:377][224]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.30-00.21.47:378][224]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.30-00.21.47:806][224]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.30-00.21.47:807][224]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.30-00.21.47:862][224]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.30-00.21.47:873][224]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.30-00.21.47:874][224]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.30-00.21.47:874][224]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.30-00.21.47:874][224]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.30-00.21.47:874][224]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.30-00.21.48:059][224]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.30-00.21.48:060][224]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.30-00.21.48:061][224]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.30-00.21.48:162][224]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.30-00.21.48:263][224]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.30-00.21.48:264][224]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.30-00.21.48:265][224]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.30-00.21.48:265][224]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.30-00.21.48:265][224]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.30-00.21.48:265][224]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.30-00.21.48:265][224]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.30-00.21.48:267][224]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.30-00.21.48:268][224]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.30-00.21.48:311][224]LogDerivedDataCache: Shutdown
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.30-00.21.48:311][224]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.30-00.21.48:312][224]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.30-00.21.48:313][224]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.30-00.21.48:313][224]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.30-00.21.48:313][224]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.30-00.21.48:313][224]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4276E9B-4934-6D85-C4A6-798A79880574%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=575670f6434e2f76adb3bab422fb8ecd%7C60e881ca71ff4d579c906a3ab5c0a7fd%7C9ce41d6e-d72c-4ba8-8803-d78e4cc470c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.30-00.21.48:326][224]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.30-00.21.48:328][224]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.30-00.21.48:330][224]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.30-00.21.48:331][224]LogExit: Exiting.
+[2017.09.30-00.21.48:349][224]Log file closed, 09/29/17 20:21:48
