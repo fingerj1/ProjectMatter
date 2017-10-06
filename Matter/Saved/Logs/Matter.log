@@ -294,3 +294,7 @@ LogInit: Object subsystem initialized
 [2017.10.06-18.11.51:050][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alfred/Documents/GitHub/ProjectMatter/Matter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
 [2017.10.06-18.11.51:053][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.215
 [2017.10.06-18.11.51:053][921]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2017.10.06-18.28.47:095][  5]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ramp_StaticMesh2)
+[2017.10.06-18.28.47:933][ 17]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.06-18.28.49:044][ 36]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2017.10.06-18.28.50:103][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
